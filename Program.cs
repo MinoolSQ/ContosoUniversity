@@ -10,7 +10,7 @@ using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Konfiguracija servisa
+
 builder.Services.AddDbContext<SchoolContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
@@ -18,7 +18,6 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Postavljanje sredstava za rukovanje zahtevima
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
@@ -40,7 +39,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// Seeding baze podataka
+
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
