@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF3F25B9-6E1A-4D39-A38B-CE25FB6AEFCE}|ContosoUniversity.csproj|c:\\users\\matij\\documents\\github\\contosouniversity\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3F25B9-6E1A-4D39-A38B-CE25FB6AEFCE}|ContosoUniversity.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3F25B9-6E1A-4D39-A38B-CE25FB6AEFCE}|ContosoUniversity.csproj|c:\\users\\matij\\documents\\github\\contosouniversity\\views\\courses\\updatecoursecredits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF3F25B9-6E1A-4D39-A38B-CE25FB6AEFCE}|ContosoUniversity.csproj|solutionrelative:views\\courses\\updatecoursecredits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3F25B9-6E1A-4D39-A38B-CE25FB6AEFCE}|ContosoUniversity.csproj|c:\\users\\matij\\documents\\github\\contosouniversity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3F25B9-6E1A-4D39-A38B-CE25FB6AEFCE}|ContosoUniversity.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF3F25B9-6E1A-4D39-A38B-CE25FB6AEFCE}|ContosoUniversity.csproj|c:\\users\\matij\\documents\\github\\contosouniversity\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF3F25B9-6E1A-4D39-A38B-CE25FB6AEFCE}|ContosoUniversity.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,25 +56,64 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCourseCredits.cshtml",
+              "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Views\\Courses\\UpdateCourseCredits.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\UpdateCourseCredits.cshtml",
+              "ToolTip": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Views\\Courses\\UpdateCourseCredits.cshtml",
+              "RelativeToolTip": "Views\\Courses\\UpdateCourseCredits.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T22:29:25.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAA4wLkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T22:28:14.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T22:27:38.448Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwCcAAAAQAAAA",
+              "ToolTip": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Controllers\\DepartmentsController.cs*",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs*",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-19T22:23:24.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "dbo.Person [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContosoUniversityTEST/True/SqlTable/dbo.Person.sql",
               "ToolTip": "dbo.Person [Data]",
@@ -72,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
@@ -85,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "Data\\SchoolContext.cs",
@@ -97,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -109,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Instructor.cs",
               "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Models\\Instructor.cs",
               "RelativeDocumentMoniker": "Models\\Instructor.cs",
@@ -121,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Models\\Person.cs",
@@ -133,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\matij\\Documents\\GitHub\\ContosoUniversity\\Views\\Departments\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Departments\\Create.cshtml",
